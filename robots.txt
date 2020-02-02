@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quufeequi.selenium.jp/sitemap.xml
